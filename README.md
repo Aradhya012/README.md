@@ -76,11 +76,8 @@ With a strong academic foundation and leadership experience, I aim to contribute
 
 ---
 
-## 📊 GitHub Stats
 
-![Aradhya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aradhya012\&show_icons=true\&theme=tokyonight)
 
----
 
 ## 🎯 Career Objective
 
