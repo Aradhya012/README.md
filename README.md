@@ -1,18 +1,18 @@
 # 👋 Hi, I'm Aradhya Saraf
 
 🚀 **Electronics & Communication Engineering Student**
-💡 **Tech Enthusiast | Embedded Systems | Problem Solver**
-👑 **President @ Tech Tantra**
+💡 **FULL STACK DEVELOPER(MERN STACK) | Embedded Systems | AI LEARNER |DSA C++**
+👑 **President @ Tech Tantra Club(ECE)**
 
 ---
 
 ## 🌟 About Me
 
 I’m an aspiring engineer passionate about building **real-world tech solutions** by combining **hardware and software**.
-With a strong academic foundation and leadership experience, I aim to contribute to impactful engineering projects and grow in a dynamic tech environment.
+ I aim to contribute to impactful engineering projects and grow in a dynamic tech environment.
 
 🔹 ECE student with hands-on project experience
-🔹 Passionate about Embedded Systems & Core Engineering
+🔹Passionate about Web development jobs 
 🔹 Actively leading technical initiatives and events
 🔹 Constantly learning and upgrading my skills
 
@@ -20,7 +20,6 @@ With a strong academic foundation and leadership experience, I aim to contribute
 
 ## 🧠 Core Strengths
 
-* ⚡ Problem Solving & Analytical Thinking
 * 👨‍💼 Leadership & Team Management
 * 🔧 Hands-on Technical Skills
 * 📈 Fast Learner & Adaptability
@@ -31,8 +30,7 @@ With a strong academic foundation and leadership experience, I aim to contribute
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-
-`C` `C++` `Python` `PHP`
+ `C++` 
 
 ### ⚙️ Tools & Technologies
 
@@ -42,7 +40,8 @@ With a strong academic foundation and leadership experience, I aim to contribute
 
 * Embedded Systems
 * Antenna Design
-* Basic Web Development
+* Web Development(MERN STACK)
+* DSA C++
 
 ---
 
@@ -83,7 +82,6 @@ With a strong academic foundation and leadership experience, I aim to contribute
 
 Seeking opportunities where I can:
 ✔️ Apply my ECE knowledge in real-world projects
-✔️ Work on Embedded Systems & Core Engineering
 ✔️ Contribute, learn, and grow in a professional environment
 
 ---
